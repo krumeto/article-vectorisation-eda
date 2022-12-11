@@ -13,7 +13,7 @@ KAGGLE_KEY=******************
 
 1. Vectorisation with the libraries' native APIs - notebooks/Article_Vectorisation_Exploration.ipynb
 2. Vectorisation with the scikit-learn API (using the `articlevectorizer` package) - notebooks/Article_Vectorisation_sklearn_api.ipynb
-3. Showcase (bulk)[https://github.com/koaning/bulk] project by Vincent Warmerdam by running `python -m bulk text data/titles_and_vectors_for_bulk.csv`
+3. Showcase [bulk](https://github.com/koaning/bulk) project by Vincent Warmerdam by running `python -m bulk text data/titles_and_vectors_for_bulk.csv`
     - bulk requires a csv with the text data in a `text` column and columns x and y being the result of a dimensionality reduction technique. For this demo, UMAP was used.
 4. A small streamlit app to showcase the BERTopic project - run `streamlit run streamlit_demo/bertopic_demo.py`
 

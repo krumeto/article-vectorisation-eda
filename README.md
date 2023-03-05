@@ -1,5 +1,7 @@
 # article-vectorisation-eda
-A repo to explore article vectorisation with a scikit-learn API
+A repo to explore article vectorisation with a scikit-learn API.
+
+The repo was built for the **Creating and assessing media article embeddings** talk in front of Sofia Data Science Society.
 
 ## Data
 
@@ -17,6 +19,9 @@ KAGGLE_KEY=******************
     - bulk requires a csv with the text data in a `text` column and columns x and y being the result of a dimensionality reduction technique. For this demo, UMAP was used.
 4. A small streamlit app to showcase the BERTopic project - run `streamlit run streamlit_demo/bertopic_demo.py`
 
+## Slides for the talk:
+
+[Slides](DS in Media - Article Vectorisation.pdf) 
 
 ## Requirements
 

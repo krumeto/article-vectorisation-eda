@@ -21,7 +21,8 @@ KAGGLE_KEY=******************
 
 ## Slides for the talk:
 
-[Slides](DS in Media - Article Vectorisation.pdf) 
+
+[Slides](DS&#32;in&#32;Media&#32;-&#32;Article&#32;Vectorisation.pdf) 
 
 ## Requirements
 
